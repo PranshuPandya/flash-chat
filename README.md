@@ -16,6 +16,3 @@
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
 
-
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
